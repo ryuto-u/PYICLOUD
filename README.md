@@ -1,4 +1,3 @@
 # Pyicloud
 using Python and Pyicloud
-
-![Pyicloud](screenshot/1.png "gps")
+[](screenshot/1.png "gps")
